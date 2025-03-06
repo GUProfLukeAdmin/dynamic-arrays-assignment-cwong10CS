@@ -18,7 +18,7 @@ void part1() {
     vector_size.shrink_to_fit();
     std::cout << "After shrink_to_fit(): Size = " << vector_size.size() << "  Capacity = " << vector_size.capacity() << std::endl;
 
-    std::cout << std::endl;
+    //std::cout << std::endl;
 }
 
 void part2() {
